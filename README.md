@@ -17,11 +17,6 @@ I Enjoy Design, Frontend, Backend, DevOps. You Check out my Socials Here: &nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/AbdelhakimMhioul/github-readme-streak-stats">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hakim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelhakimMhioul&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a>
-<p>
-<p align="center">
   <a href="https://github.com/houdajh/github-readme-stats">
     <img alt="Abdelhakim Mhioul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdelhakimMhioul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
