@@ -8,10 +8,10 @@ I Enjoy Design, Frontend, Backend, DevOps. You Check out my Socials Here: &nbsp;
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdelhakimMhioul&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelhakim Mhioul" height="30" />
-  <a href="https://twitter.com/HkMhl" target="blank">
+  <a href="https://twitter.com/HkMhl" target="_blank">
     <img src="https://img.shields.io/twitter/follow/HkMhl?logo=twitter&style=for-the-badge" alt="HkMhl" height="30" />
   </a>
-  <a href="https://github.com/AbdelhakimMhioul?tab=followers">
+  <a href="https://github.com/AbdelhakimMhioul?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/AbdelhakimMhioul?label=Followers&style=social" alt="GitHub Badge" height="30" />
   </a>
 </p>
