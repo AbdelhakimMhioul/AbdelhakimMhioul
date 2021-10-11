@@ -17,10 +17,10 @@ I Enjoy Design, Frontend, Backend, DevOps. You Check out my Socials Here: &nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/houdajh/github-readme-stats">
+  <a href="https://github.com/AbdelhakimMhioul/github-readme-stats">
     <img alt="Abdelhakim Mhioul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdelhakimMhioul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/houdajh/github-readme-stats">
+  <a href="https://github.com/AbdelhakimMhioul/github-readme-stats">
     <img alt="Abdelhakim Mhioul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhakimMhioul&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
