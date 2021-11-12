@@ -140,7 +140,7 @@ I Enjoy Design, Frontend, Backend, DevOps. You Check out my Socials Here: &nbsp;
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a>
 </p>
 
-## ✨ SSG / SSR
+## ✨ SSG / SSR / CMS
 <p align="left">
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="60" height="60"/>
