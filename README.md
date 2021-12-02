@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 I'm a Full-Stack Developer & Web and Mobile Engineer from Casablanca, Morocco.
-Everyone knows me as Hakim, for me coding is way to create dreams into real life applications and solve problems. Not much to share right now. But I'm very dynamic, with a team spirit and looking for new challenges to develop and to prove myself in the job market.
+Everyone knows me as Hakim, for me coding is a way to create dreams into real life applications and solve problems. Not much to share right now. But I'm very dynamic, with a team spirit and looking for new challenges to develop and to prove myself in the job market.
 I Enjoy Design, Frontend, Backend, DevOps. You Check out my Socials Here: &nbsp;&nbsp;<a href="https://linkedin.com/in/abdelhakim-mhioul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelhakim-mhioul" height="15" width="15" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/14768841" target="_blank"><img align="center" alt="14768841" height="15" width="15" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" /></a>
 
 <p align="center">
