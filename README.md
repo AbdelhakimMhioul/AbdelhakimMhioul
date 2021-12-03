@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
 I'm a Full-Stack Developer & Web and Mobile Engineer from Casablanca, Morocco.
 Everyone knows me as Hakim, for me coding is a way to create dreams into real life applications and solve problems. Not much to share right now. But I'm very dynamic, with a team spirit and looking for new challenges to develop and to prove myself in the job market.
-I Enjoy Design, Frontend, Backend, DevOps. You Check out my Socials Here: https://linktr.ee/hakim.mh
+I Enjoy Design, Frontend, Backend, DevOps. <br>You Check out my Socials Here: https://linktr.ee/hakim.mh
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdelhakimMhioul&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelhakim Mhioul" height="30" />
