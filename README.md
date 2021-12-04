@@ -4,10 +4,11 @@
 ## 🙋‍♂️ About Me
 
 I'm a **Full-Stack Developer & Web and Mobile Engineer** from Casablanca, Morocco. Everyone knows me as `Hakim`. \
-For me coding is a way to create dreams into real life applications and solve problems. Not much to share right now. But I'm very dynamic, with a team spirit and looking for new challenges to develop and to prove myself in the job market.
+For me coding is a way to create dreams into real life applications and solve problems. Not much to share right now. But I'm very dynamic, with a team spirit and looking for new challenges to develop and to prove myself in the job market. \
 I Enjoy **Design, Frontend, Backend & DevOps**. \
 🌱 You Check out my Socials [Here](https://linktr.ee/hakim.mh). \
-👨‍💻 All of my Projects are available [Here](https://my-portfolio-hakim-mh.vercel.app/).
+
+<!-- 👨‍💻 All of my Projects are available [Here](https://my-portfolio-hakim-mh.vercel.app/). -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdelhakimMhioul&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelhakim Mhioul" height="30" />
@@ -15,7 +16,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
     <img src="https://img.shields.io/twitter/follow/HkMhl?logo=twitter&style=for-the-badge" alt="HkMhl" height="30" />
   </a>
   <a href="https://github.com/AbdelhakimMhioul?tab=followers" target="_blank" title="">
-    <img src="https://img.shields.io/github/followers/AbdelhakimMhioul?label=Followers&style=social" alt="GitHub Badge" height="30" />
+    <img src="https://img.shields.io/github/followers/AbdelhakimMhioul?label=Followers&style=social" alt="GitHub Badge" height="30"/>
   </a>
 </p>
 
@@ -37,7 +38,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="auto" style="border-radius:50%"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
