@@ -202,7 +202,9 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
 
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" title="NextJS" rel="noreferrer">
-    <img src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" style="border-radius: 50%" alt="nextjs" width="60" height="60"/>
+    <kbd>
+      <img src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"  alt="nextjs" width="60" height="60"/>
+    </kbd>
   </a>
   <a href="https://nuxtjs.org/" target="_blank" title="NuxtJS">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="60" height="60"/>
@@ -211,7 +213,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="60" height="60"/>
   </a>
   <a href="https://graphcms.com/" target="_blank" title="GraphCMS">
-    <img src="https://pbs.twimg.com/profile_images/1240607161639632896/65lOOz86_400x400.jpg" alt="GraphCMS" width="60" height="60" style="border-radius: 50%"/>
+    <img src="https://pbs.twimg.com/profile_images/1240607161639632896/65lOOz86_400x400.jpg" alt="GraphCMS" width="60" height="60" />
   </a>
 </p>
 
