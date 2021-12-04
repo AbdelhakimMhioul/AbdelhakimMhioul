@@ -60,13 +60,13 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" title="" title="Figma">
+  <a href="https://www.figma.com/" target="_blank" title="Figma">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" title="" title="HTML5">
+  <a href="https://www.w3schools.com/css/" target="_blank" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="60" height="60"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" title="" title="CSS3">
+  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
   </a>
   <!-- <a href="https://sass-lang.com" target="_blank" title=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
