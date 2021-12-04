@@ -202,7 +202,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
 
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" title="NextJS" rel="noreferrer">
-    <img src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"  alt="nextjs" width="60" height="60"/>
+    <img src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"  alt="nextjs" width="60" height="60" style="border-radius:50%"/>
   </a>
   <a href="https://nuxtjs.org/" target="_blank" title="NuxtJS">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="60" height="60"/>
