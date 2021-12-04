@@ -37,7 +37,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="auto" style="border-radius:50%"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
@@ -202,7 +202,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
 
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" title="NextJS" rel="noreferrer">
-    <img src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"  alt="nextjs" width="60" height="60" style="border-radius:50%"/>
+    <img src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"  alt="nextjs" width="60" height="60" />
   </a>
   <a href="https://nuxtjs.org/" target="_blank" title="NuxtJS">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="60" height="60"/>
