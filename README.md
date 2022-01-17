@@ -25,7 +25,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
     <img alt="Abdelhakim Mhioul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdelhakimMhioul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/AbdelhakimMhioul/github-readme-stats">
-    <img alt="Abdelhakim Mhioul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhakimMhioul&langs_count=8&count_private=true&hide=html&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img alt="Abdelhakim Mhioul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhakimMhioul&langs_count=8&count_private=true&hide=html,shell&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
