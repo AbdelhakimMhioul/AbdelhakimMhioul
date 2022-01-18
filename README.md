@@ -197,6 +197,9 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://heroku.com" target="_blank" title="Heroku">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/>
   </a>
+  <a href="https://vercel.com" target="_blank" title="Vercel">
+    <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="vercel" width="60" height="60"/>
+  </a>
 </p>
 
 ## ✨ SSG / SSR / CMS
