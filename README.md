@@ -215,7 +215,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="60" height="60"/>
   </a>
   <a href="https://graphcms.com/" target="_blank" title="GraphCMS">
-    <img src="![2022-01-18_12-17](https://user-images.githubusercontent.com/77196025/149927799-b9660380-098f-4027-9d25-650fa114ce04.png)" alt="GraphCMS" width="60" height="60" />
+    <img src="https://user-images.githubusercontent.com/77196025/149927799-b9660380-098f-4027-9d25-650fa114ce04.png" alt="GraphCMS" width="60" height="60" />
   </a>
 </p>
 
