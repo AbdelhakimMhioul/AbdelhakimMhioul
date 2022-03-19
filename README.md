@@ -8,7 +8,7 @@ For me coding is a way to create dreams into real life applications and solve pr
 I Enjoy **Design, Frontend, Backend & DevOps**. \
 🌱 You Check out my Socials [Here](https://linktr.ee/hakim.mh).
 
-<!-- 👨‍💻 All of my Projects are available [Here](https://my-portfolio-hakim-mh.vercel.app/). -->
+👨‍💻 All of my Projects are available Here.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdelhakimMhioul&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelhakim Mhioul" height="30" />
@@ -29,8 +29,6 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   </a>
 </p>
 
-**Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 ## ✨ Programming Languages
 
 <p align="left">
@@ -49,9 +47,12 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://www.php.net" target="_blank" title="PHP">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
   </a>
-  <!-- <a href="https://golang.org" target="_blank" title="">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/>
-  </a> -->
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="65" height="60"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" title="Dart">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
+  </a>
 </p>
 
 ## ✨ Design / WireFraming / UI / UX
@@ -69,8 +70,6 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
   </a>
-  <!-- <a href="https://sass-lang.com" target="_blank" title=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
-  </a> -->
 </p>
 
 ## ✨ Frontend Dev / Frameworks / Bundlers & Compilers
@@ -88,30 +87,15 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://vuejs.org/" target="_blank" title="VueJS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/>
   </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank" title="Vuetify">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="60" height="60"/>
-  </a>
   <a href="https://svelte.dev" target="_blank" title="Svelte">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="60" height="60"/>
-  </a>
-  <a href="https://kit.svelte.dev/" target="_blank" title="SvelteKit">
-    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="60" height="60"/>
   </a>
   <a href="https://webpack.js.org" target="_blank" title="Webpack">
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"/>
   </a>
- <a href="https://gulpjs.com" target="_blank" title="GulpJS">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="60" height="60"/>
-  </a>
   <a href="https://babeljs.io/" target="_blank" title="BabelJS">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60"/>
   </a>
-  <!-- <a href="https://www.chartjs.org" target="_blank" title="ChartJS" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartist" width="60" height="60"/>
-  </a> -->
-  <!-- <a href="https://www.electronjs.org" target="_blank" title="ElectronJS" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="60" height="60"/>
-  </a>   -->
 </p>
 
 ## ✨ Backend Dev / Frameworks
@@ -129,6 +113,9 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://laravel.com/" target="_blank" title="Laravel">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60"/>
   </a>
+  <a href="https://symfony.com" target="_blank" rel="noreferrer">
+    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="60" height="60"/>
+  </a>
   <a href="https://graphql.org" target="_blank" title="GraphQL">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60"/>
   </a>
@@ -137,11 +124,11 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
 ## ✨ Mobile App Development
 
 <p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
+  </a>
   <a href="https://reactnative.dev/" target="_blank" title="React Native">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" title="Dart">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
   </a>
   <a href="https://flutter.dev" target="_blank" title="Flutter">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/>
@@ -163,9 +150,9 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://www.sqlite.org/" target="_blank" title="SQLite" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/>
   </a>
-  <!-- <a href="https://redis.io" target="_blank" title="Redis" rel="noreferrer">
+  <a href="https://redis.io" target="_blank" title="Redis" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/>
-  </a> -->
+  </a>
   <a href="https://www.oracle.com/" target="_blank" title="Oracle" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/>
   </a>
@@ -194,6 +181,9 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://firebase.google.com/" target="_blank" title="Firebase">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
   </a>
+  <a href="https://supabase.com/"  target="_blank" title="Supabase">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---1zZlXx3--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1968/c0dbe341-1d94-4192-a93b-921519678894.png"  alt="supabase" width="60" height="60">
+  </a>
   <a href="https://heroku.com" target="_blank" title="Heroku">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/>
   </a>
@@ -211,6 +201,9 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://nuxtjs.org/" target="_blank" title="NuxtJS">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="60" height="60"/>
   </a>
+  <a href="https://kit.svelte.dev/" target="_blank" title="SvelteKit">
+    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/svelte.svg" alt="sapper" width="60" height="60"/>
+  </a>
   <a href="https://www.gatsbyjs.com/" target="_blank" title="GatsbyJS">
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="60" height="60"/>
   </a>
@@ -219,7 +212,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   </a>
 </p>
 
-## ✨ Other
+## ✨ IoT / OS / VCS / Tools
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
