@@ -14,7 +14,8 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <img src="https://komarev.com/ghpvc/?username=AbdelhakimMhioul&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelhakim Mhioul" height="30" />
   <a href="https://twitter.com/hakim_mhioul" target="_blank" title="">
     <img src="https://img.shields.io/twitter/follow/hakim_mhioul?logo=twitter&style=for-the-badge" alt="hakim_mhioul" height="30" />
-  </a>
+  </a>![1631795624-logo-django](https://user-images.githubusercontent.com/77196025/170704657-ac8f39d9-a624-47d4-b64c-2b2c2a597092.png)
+
   <a href="https://github.com/AbdelhakimMhioul?tab=followers" target="_blank" title="">
     <img src="https://img.shields.io/github/followers/AbdelhakimMhioul?label=Followers&style=social" alt="GitHub Badge" height="30"/>
   </a>
@@ -52,6 +53,9 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   </a>
   <a href="https://dart.dev" target="_blank" title="Dart">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
+  </a>
+  <a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank" rel="noreferrer">
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://user-images.githubusercontent.com/77196025/170700942-bd974820-bf53-4b21-8218-eaebfff57cc0.png)" alt="solidity" width="60" height="60"/>
   </a>
 </p>
 
@@ -102,7 +106,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
 
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/>
+      <img src="https://user-images.githubusercontent.com/77196025/170704687-67eb2c72-2b67-488d-a73f-7c837af3b51f.png" alt="django" width="60" height="60"/>
   </a>
   <a href="https://nodejs.org" target="_blank" title="NodeJS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
@@ -118,6 +122,29 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   </a>
   <a href="https://graphql.org" target="_blank" title="GraphQL">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60"/>
+  </a>
+</p>
+
+## ✨ Blockchain
+
+<p align="left">
+  <a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/77196025/170700942-bd974820-bf53-4b21-8218-eaebfff57cc0.png" alt="solidity" width="80" height="80"/>
+  </a>
+  <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/77196025/170701125-33b6a1d0-8509-4559-a7f5-7f231a2402bd.png" alt="truffle" width="80" height="80"/>
+  </a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/77196025/170702397-0bac7e91-4cb2-4e16-87fb-dfae3adb0806.png" alt="hardhat" width="80" height="80"/>
+  </a>
+  <a href="https://web3js.readthedocs.io/en/v1.7.3/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/77196025/170703587-dbc0f636-a83d-4997-980f-74b8bd439823.png" alt="Web3.js" width="80" height="80"/>
+  </a>
+  <a href="https://web3py.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/77196025/170704142-63b21f38-d361-4d79-9b61-50207fa0bb66.png" alt="Web3.py" width="80" height="80"/>
+  </a>
+  <a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/77196025/170704290-3bc26017-03d3-4c8f-b5e2-de087b5e8743.png" alt="Brownie" width="80" height="80"/>
   </a>
 </p>
 
