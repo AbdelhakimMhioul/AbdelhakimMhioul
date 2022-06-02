@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mhioul Abdelhakim</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I am Mhioul Abdelhakim</h1>
 <h3 align="center"> I'm a passionate Full-Stack Developer from Morocco.</h3>
 
 ## 🙋‍♂️ About Me
@@ -14,7 +14,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <img src="https://komarev.com/ghpvc/?username=AbdelhakimMhioul&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelhakim Mhioul" height="30" />
   <a href="https://twitter.com/hakim_mhioul" target="_blank" title="">
     <img src="https://img.shields.io/twitter/follow/hakim_mhioul?logo=twitter&style=for-the-badge" alt="hakim_mhioul" height="30" />
-  </a>![1631795624-logo-django](https://user-images.githubusercontent.com/77196025/170704657-ac8f39d9-a624-47d4-b64c-2b2c2a597092.png)
+  </a>
 
   <a href="https://github.com/AbdelhakimMhioul?tab=followers" target="_blank" title="">
     <img src="https://img.shields.io/github/followers/AbdelhakimMhioul?label=Followers&style=social" alt="GitHub Badge" height="30"/>
@@ -26,7 +26,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
     <img alt="Abdelhakim Mhioul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdelhakimMhioul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/AbdelhakimMhioul/github-readme-stats">
-    <img alt="Abdelhakim Mhioul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhakimMhioul&langs_count=8&count_private=true&hide=html,shell&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img alt="Abdelhakim Mhioul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhakimMhioul&langs_count=8&count_private=true&hide=html,shell,scss,twig&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
@@ -54,8 +54,8 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://dart.dev" target="_blank" title="Dart">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
   </a>
-  <a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://user-images.githubusercontent.com/77196025/170700942-bd974820-bf53-4b21-8218-eaebfff57cc0.png)" alt="solidity" width="60" height="60"/>
+  <a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank" title="Solidity">
+    <img src="https://user-images.githubusercontent.com/77196025/170700942-bd974820-bf53-4b21-8218-eaebfff57cc0.png" alt="solidity" width="60" height="60"/>
   </a>
 </p>
 
@@ -125,26 +125,23 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   </a>
 </p>
 
-## ✨ Blockchain
+## ✨ Blockchain Dev
 
 <p align="left">
-  <a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/77196025/170700942-bd974820-bf53-4b21-8218-eaebfff57cc0.png" alt="solidity" width="80" height="80"/>
+  <a href="https://trufflesuite.com/" target="_blank" title="Truffle">
+    <img src="https://user-images.githubusercontent.com/77196025/170701125-33b6a1d0-8509-4559-a7f5-7f231a2402bd.png" alt="truffle" width="60" height="60"/>
   </a>
-  <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/77196025/170701125-33b6a1d0-8509-4559-a7f5-7f231a2402bd.png" alt="truffle" width="80" height="80"/>
+  <a href="https://hardhat.org/" target="_blank" title="Hardhat">
+    <img src="https://user-images.githubusercontent.com/77196025/171601678-97db810d-0f5c-40b7-ab0e-072e030a68d3.png" alt="hardhat" width="80" height="60"/>
   </a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/77196025/170702397-0bac7e91-4cb2-4e16-87fb-dfae3adb0806.png" alt="hardhat" width="80" height="80"/>
+  <a href="https://web3js.readthedocs.io/en/v1.7.3/" target="_blank" title="Web3.js">
+    <img src="https://user-images.githubusercontent.com/77196025/170703587-dbc0f636-a83d-4997-980f-74b8bd439823.png" alt="Web3.js" width="90" height="60"/>
   </a>
-  <a href="https://web3js.readthedocs.io/en/v1.7.3/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/77196025/170703587-dbc0f636-a83d-4997-980f-74b8bd439823.png" alt="Web3.js" width="80" height="80"/>
+  <a href="https://web3py.readthedocs.io/en/stable/" target="_blank" title="Web3.py">
+    <img src="https://user-images.githubusercontent.com/77196025/170704142-63b21f38-d361-4d79-9b61-50207fa0bb66.png" alt="Web3.py" width="100" height="60"/>
   </a>
-  <a href="https://web3py.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/77196025/170704142-63b21f38-d361-4d79-9b61-50207fa0bb66.png" alt="Web3.py" width="80" height="80"/>
-  </a>
-  <a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/77196025/170704290-3bc26017-03d3-4c8f-b5e2-de087b5e8743.png" alt="Brownie" width="80" height="80"/>
+  <a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank" title="Brownie">
+    <img src="https://user-images.githubusercontent.com/77196025/171602267-6502d1d3-453d-440e-ab8c-4e870ca74ab9.png" alt="Brownie" width="60" height="60"/>
   </a>
 </p>
 
@@ -252,7 +249,7 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" title="Shell Scripting" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
+    <img src="https://user-images.githubusercontent.com/77196025/171603202-62cea27b-882b-4c6c-841b-9cc56798a29f.png" alt="bash" width="80" height="60"/>
   </a>
   <a href="https://postman.com" target="_blank" title="Postman">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
