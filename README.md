@@ -28,6 +28,9 @@ I Enjoy **Design, Frontend, Backend & Blockchain**. \
   <a href="https://github.com/AbdelhakimMhioul/github-readme-stats">
     <img alt="Abdelhakim Mhioul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhakimMhioul&langs_count=8&count_private=true&hide=html,shell,scss,twig&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
+  <a href="https://app.daily.dev/HakimMhioul">
+    <img src="https://api.daily.dev/devcards/c80fc5c05ca24c8fbb4e9a4344130dc6.png?r=3fi" width="400" alt="Abdelhakim Mhioul's Dev Card"/>
+  </a>
 </p>
 
 ## ✨ Programming Languages
