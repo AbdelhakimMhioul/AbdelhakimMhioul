@@ -5,7 +5,7 @@
 
 I'm a **Full-Stack Developer & Web and Mobile Engineer** from Casablanca, Morocco. Everyone knows me as `Hakim`. \
 For me coding is a way to create dreams into real life applications and solve problems. Not much to share right now. But I'm very dynamic, with a team spirit and looking for new challenges to develop and to prove myself in the job market. \
-I Enjoy **Design, Frontend, Backend & Blockchain**. \
+I Enjoy **Design, Frontend, Backend & Mobile**. \
 🌱 You're welcome to see my projects and work in my [Personal Website](https://www.mhioul.com/).
 
 👨‍💻 All of my Projects are available Here.
