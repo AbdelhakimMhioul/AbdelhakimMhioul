@@ -68,9 +68,6 @@ I Enjoy **Design, Frontend, Backend & Mobile**. \
   <a href="https://svelte.dev" target="_blank" title="Svelte">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="60" height="60"/>
   </a>
-  <a href="https://kit.svelte.dev/" target="_blank" title="SvelteKit">
-    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/svelte.svg" alt="sapper" width="60" height="60"/>
-  </a>
 </p>
 
 ## ✨ Backend Dev / Frameworks
