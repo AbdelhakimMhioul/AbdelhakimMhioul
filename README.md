@@ -135,6 +135,31 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/AbdelhakimMhioul/supply-chain-dapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhakimMhioul&repo=supply-chain-dapp&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/AbdelhakimMhioul/chatgpt-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhakimMhioul&repo=chatgpt-clone&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/AbdelhakimMhioul/immo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhakimMhioul&repo=immo&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/AbdelhakimMhioul/rotten_fruits_detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhakimMhioul&repo=rotten_fruits_detector&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/AbdelhakimMhioul/vexonik-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhakimMhioul&repo=vexonik-app&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/AbdelhakimMhioul/vera-mobile-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhakimMhioul&repo=vera-mobile-app&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+---
+
 ## 🏆 Highlights
 
 | | |
