@@ -96,28 +96,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 GitHub Trophies
 
-### ✦ Languages
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a> <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/></a> <a href="https://www.python.org" target="_blank" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="55" height="55"/></a> <a href="https://www.php.net" target="_blank" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="55" height="55"/></a> <a href="https://go.dev" target="_blank" title="Golang"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="golang" width="55" height="55"/></a> <a href="https://kotlinlang.org" target="_blank" title="Kotlin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="55" height="55"/></a></p>
-
-### ✦ Frontend
-<p align="left"><a href="https://reactjs.org/" target="_blank" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="55" height="55"/></a> <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="55" height="55"/></a></p>
-
-### ✦ Backend
-<p align="left"><a href="https://nodejs.org" target="_blank" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55"/></a> <a href="https://expressjs.com" target="_blank" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="55" height="55"/></a> <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="55" height="55"/></a> <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="55" height="55"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="55" height="55"/></a> <a href="https://laravel.com/" target="_blank" title="Laravel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="55" height="55"/></a> <a href="https://go.dev" target="_blank" title="Golang"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="golang" width="55" height="55"/></a></p>
-
-### ✦ Mobile
-<p align="left"><a href="https://reactnative.dev/" target="_blank" title="React Native"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="55" height="55"/></a> <a href="https://flutter.dev" target="_blank" title="Flutter"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55"/></a> <a href="https://developer.android.com" target="_blank" title="Android"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="55" height="55"/></a> <a href="https://kotlinlang.org" target="_blank" title="Kotlin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="55" height="55"/></a></p>
-
-### ✦ Databases & ORMs
-<p align="left"><a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="55" height="55"/></a> <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/></a> <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="55" height="55"/></a> <a href="https://redis.io" target="_blank" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="55" height="55"/></a> <a href="https://www.prisma.io/" target="_blank" title="Prisma ORM"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="55" height="55"/></a></p>
-
-### ✦ DevOps & Infrastructure
-<p align="left"><a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/></a> <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github actions" width="55" height="55"/></a> <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" title="GitLab CI/CD"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="55" height="55"/></a> <a href="https://www.ansible.com/" target="_blank" title="Ansible"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="ansible" width="55" height="55"/></a> <a href="https://nginx.org/" target="_blank" title="Nginx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="55" height="55"/></a> <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/></a> <a href="https://archlinux.org/" target="_blank" title="Arch Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" width="55" height="55"/></a></p>
-
-### ✦ Testing & Tools
-<p align="left"><a href="https://jestjs.io" target="_blank" title="Jest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="55" height="55"/></a> <a href="https://playwright.dev/" target="_blank" title="Playwright"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="55" height="55"/></a> <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/></a> <a href="https://nx.dev/" target="_blank" title="NX Monorepo"><img src="https://cdn.simpleicons.org/nx" alt="nx" width="55" height="55"/></a> <a href="https://socket.io/" target="_blank" title="Socket.IO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="socketio" width="55" height="55"/></a></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelhakimMhioul&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
+</p>
 
 ---
 
@@ -134,6 +117,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelhakimMhioul&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelhakimMhioul&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdelhakimMhioul/AbdelhakimMhioul/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
