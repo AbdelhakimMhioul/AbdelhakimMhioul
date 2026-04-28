@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Web+%26+Mobile+Engineer+%F0%9F%93%B1;AI+Integration+Specialist+%F0%9F%A4%96;DevOps+%26+Linux+Power+User+%F0%9F%90%A7;6%2B+Years+Building+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Web+%26+Mobile+Engineer+%F0%9F%93%B1;AI+Integration+Specialist+%F0%9F%A4%96;DevOps+%26+Linux+Power+User+%F0%9F%90%A7;3%2B+Years+Building+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  👋  Hakim — Full Stack Engineer from Casablanca, Morocco 🇲🇦    ║
 ║  🎓  State Engineer Diploma — ENSIAS (Web & Mobile Computing)    ║
-║  🚀  6+ years building production systems used by 70k+ users     ║
+║  🚀  3+ years building production systems used by 70k+ users     ║
 ║  🤖  AI pipelines · Distributed systems · VPN infrastructure     ║
 ║  🐧  Linux power user — Arch / NixOS / Debian since 2018         ║
 ║  🌍  Arabic · English · French · Spanish                         ║
@@ -98,179 +98,41 @@
 
 ## 🛠️ Tech Stack
 
-### ✦ Languages
-
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.php.net" target="_blank" title="PHP">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://go.dev" target="_blank" title="Golang">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://kotlinlang.org" target="_blank" title="Kotlin">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="55" height="55"/>
-  </a>
-</p>
-
-### ✦ Frontend
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://vuejs.org/" target="_blank" title="Vue.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://nuxtjs.org/" target="_blank" title="Nuxt.js">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://svelte.dev" target="_blank" title="Svelte">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="55" height="55"/>
-  </a>
-</p>
-
-### ✦ Backend
-
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" title="Node.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://expressjs.com" target="_blank" title="Express.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="flask" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://laravel.com/" target="_blank" title="Laravel">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://symfony.com" target="_blank" title="Symfony">
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://go.dev" target="_blank" title="Golang Backend">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="55" height="55"/>
-  </a>
-</p>
-
-### ✦ Mobile
-
-<p align="left">
-  <a href="https://reactnative.dev/" target="_blank" title="React Native">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://flutter.dev" target="_blank" title="Flutter">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://developer.android.com" target="_blank" title="Android">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://kotlinlang.org" target="_blank" title="Kotlin">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="55" height="55"/>
-  </a>
-</p>
-
-### ✦ Databases & ORMs
-
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://redis.io" target="_blank" title="Redis">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="redis" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" title="SQLite">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.prisma.io/" target="_blank" title="Prisma ORM">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="55" height="55"/>
-  </a>
-</p>
-
-### ✦ DevOps & Infrastructure
-
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" title="Docker">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://kubernetes.io" target="_blank" title="Kubernetes">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github actions" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" title="GitLab CI/CD">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.ansible.com/" target="_blank" title="Ansible">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="ansible" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://nginx.org/" target="_blank" title="Nginx">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" title="Linux">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://archlinux.org/" target="_blank" title="Arch Linux">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" width="55" height="55"/>
-  </a>
-</p>
-
-### ✦ Testing
-
-<p align="left">
-  <a href="https://jestjs.io" target="_blank" title="Jest">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://playwright.dev/" target="_blank" title="Playwright">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="55" height="55"/>
-  </a>
-</p>
-
-### ✦ Tools & Platforms
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://nx.dev/" target="_blank" title="NX Monorepo">
-    <img src="https://cdn.simpleicons.org/nx" alt="nx" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://socket.io/" target="_blank" title="Socket.IO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="socketio" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.postman.com/" target="_blank" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" title="Figma">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.python.org" target="_blank" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.php.net" target="_blank" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>&nbsp;
+  <a href="https://go.dev" target="_blank" title="Golang"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/></a>&nbsp;
+  <a href="https://kotlinlang.org" target="_blank" title="Kotlin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/></a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/></a>&nbsp;
+  <a href="https://nodejs.org" target="_blank" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>&nbsp;
+  <a href="https://expressjs.com" target="_blank" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="50" height="50"/></a>&nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/></a>&nbsp;
+  <a href="https://laravel.com/" target="_blank" title="Laravel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50"/></a>&nbsp;
+  <a href="https://reactnative.dev/" target="_blank" title="React Native"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/></a>&nbsp;
+  <a href="https://flutter.dev" target="_blank" title="Flutter"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/></a>&nbsp;
+  <a href="https://developer.android.com" target="_blank" title="Android"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>&nbsp;
+  <a href="https://redis.io" target="_blank" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.prisma.io/" target="_blank" title="Prisma ORM"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>&nbsp;
+  <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github actions" width="50" height="50"/></a>&nbsp;
+  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" title="GitLab CI/CD"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.ansible.com/" target="_blank" title="Ansible"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="ansible" width="50" height="50"/></a>&nbsp;
+  <a href="https://nginx.org/" target="_blank" title="Nginx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>&nbsp;
+  <a href="https://archlinux.org/" target="_blank" title="Arch Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" width="50" height="50"/></a>&nbsp;
+  <a href="https://jestjs.io" target="_blank" title="Jest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="50" height="50"/></a>&nbsp;
+  <a href="https://playwright.dev/" target="_blank" title="Playwright"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="50" height="50"/></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>&nbsp;
+  <a href="https://nx.dev/" target="_blank" title="NX Monorepo"><img src="https://cdn.simpleicons.org/nx" alt="nx" width="50" height="50"/></a>&nbsp;
+  <a href="https://socket.io/" target="_blank" title="Socket.IO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="socketio" width="50" height="50"/></a>
 </p>
 
 ---
@@ -305,7 +167,7 @@
 | 🏗️ **Platforms Built** | Logistics, HR/AI, Freelancing, Print-on-Demand, Coworking, VPN |
 | 👥 **Users Served** | 70,000+ (Week'in) · 5,000+ (Serenest) · 850+ billed clients |
 | 📱 **Mobile Apps** | 4 published apps · Play Store + App Store |
-| 🐧 **Linux** | 6+ years — Arch · NixOS · Ubuntu · Debian |
+| 🐧 **Linux** | 3+ years — Arch · NixOS · Ubuntu · Debian |
 | 🌍 **Countries** | Morocco 🇲🇦 · France 🇫🇷 · China (bypass infra) 🇨🇳 |
 | 🤖 **AI Work** | CV parsing · Candidate scoring · Talent copilots |
 
