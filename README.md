@@ -102,22 +102,22 @@
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://www.php.net" target="_blank" title="PHP">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://go.dev" target="_blank" title="Golang">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://kotlinlang.org" target="_blank" title="Kotlin">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="55" height="55"/>
   </a>
 </p>
 
@@ -125,13 +125,13 @@
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" alt="nextjs" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://vuejs.org/" target="_blank" title="Vue.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://nuxtjs.org/" target="_blank" title="Nuxt.js">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="55" height="55"/>
@@ -148,7 +148,7 @@
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://expressjs.com" target="_blank" title="Express.js">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="55" height="55"/>
@@ -169,7 +169,7 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://go.dev" target="_blank" title="Golang Backend">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="55" height="55"/>
   </a>
 </p>
 
@@ -183,10 +183,10 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://developer.android.com" target="_blank" title="Android">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://kotlinlang.org" target="_blank" title="Kotlin">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="55" height="55"/>
   </a>
 </p>
 
@@ -194,16 +194,16 @@
 
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://redis.io" target="_blank" title="Redis">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="redis" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://www.sqlite.org/" target="_blank" title="SQLite">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/>
@@ -217,7 +217,7 @@
 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://kubernetes.io" target="_blank" title="Kubernetes">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
@@ -235,7 +235,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://www.linux.org/" target="_blank" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://archlinux.org/" target="_blank" title="Arch Linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" width="55" height="55"/>
@@ -260,7 +260,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://nx.dev/" target="_blank" title="NX Monorepo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nx/nx-original.svg" alt="nx" width="55" height="55"/>
+    <img src="https://cdn.simpleicons.org/nx" alt="nx" width="55" height="55"/>
   </a>&nbsp;
   <a href="https://socket.io/" target="_blank" title="Socket.IO">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="socketio" width="55" height="55"/>
