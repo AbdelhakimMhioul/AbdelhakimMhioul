@@ -1,12 +1,8 @@
-<div align="center">
+<h1 align="center">Mhioul Abdelhakim</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mhioul%20Abdelhakim&fontSize=48&fontColor=fff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20Web%20%26%20Mobile&descAlignY=54&descAlign=50" width="100%"/>
-
-</div>
-
-<h3 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Web+%26+Mobile+Engineer+%F0%9F%93%B1;AI+Integration+Specialist+%F0%9F%A4%96;DevOps+%26+Linux+Power+User+%F0%9F%90%A7;3%2B+Years+Building+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-</h3>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdelhakimMhioul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="28"/>
